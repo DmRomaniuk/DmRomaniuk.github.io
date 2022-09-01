@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DmRomaniuk.github.io/static/css/main.79186776.css",
+    "main.js": "/DmRomaniuk.github.io/static/js/main.e6d61105.js",
+    "index.html": "/DmRomaniuk.github.io/index.html",
+    "main.79186776.css.map": "/DmRomaniuk.github.io/static/css/main.79186776.css.map",
+    "main.e6d61105.js.map": "/DmRomaniuk.github.io/static/js/main.e6d61105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79186776.css",
+    "static/js/main.e6d61105.js"
+  ]
+}
