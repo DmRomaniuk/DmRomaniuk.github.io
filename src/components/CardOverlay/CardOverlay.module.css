@@ -1,0 +1,55 @@
+.card_overlay {
+    max-width: 870px;
+    max-height: 770px;
+    overflow-y: auto;
+    padding: 108px 153px;
+    background: #333348;
+    border-radius: 40px;
+}
+
+.user_posts__item {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #4C4C6A;
+    text-align: center;
+}
+
+.post_title {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 45px;
+}
+
+.post_text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+@media (max-width: 1024px) {
+    .card_overlay {
+        margin-top: 30px;
+        max-width: 100%;
+    }
+}
+
+@media (max-width:768px) {
+
+    .card_overlay{
+        padding: 50px 50px;
+    }
+
+    .post_title {
+        margin-bottom: 20px;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 30px;
+    }
+    
+    .post_text {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 23px;
+    }
+}
